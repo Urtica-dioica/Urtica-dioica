@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urtica-dioica aka joshua larsen
+- 👋 Hi, I’m @joshua-larsen
 - 👀 I’m interested in working with Shopify on the future of commerce for everyone
 - 🌱 I’m currently learning the basics of programming and project management
 - 💞️ I’m looking to collaborate on open source projects
