@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning the basics of programming and project management
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 The best way to reach me is via LinkedIn https://www.linkedin.com/in/joshua-larsen-salesforce
+- My Google Developer Profile https://developers.google.com/profile/u/joshualarsen
+- My Stackexchange Profile stackoverflow.com/users/21593536
 
 
 <!---
