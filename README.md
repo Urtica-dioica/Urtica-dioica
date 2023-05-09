@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 The best way to reach me is via LinkedIn https://www.linkedin.com/in/joshua-larsen-salesforce
 - My Google Developer Profile https://developers.google.com/profile/u/joshualarsen
-- My Stack Overflow Profile stackoverflow.com/users/21593536
+- My Stack Overflow Profile https://stackoverflow.com/users/21593536
 
 
 <!---
